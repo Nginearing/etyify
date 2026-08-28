@@ -1,5 +1,5 @@
 [(try it here)](https://obamify.com/)
-# ety
+# etyify
 revolutionary new technology that turns any image into etymologynerd
 
 ![example](example.gif)
